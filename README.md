@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on: Democratizing HPC @ParallelWorks<br>🌱 I’m currently learning: How to become a better Full Stack developer<br>💬 Ask me about: College Basketball :)<br>⚡ Fun fact: I was born on Christmas Day
+🔭 I’m currently working on: Finding a Job!<br>🌱 I’m currently learning: How to become a better Full Stack developer<br>💬 Ask me about: College Basketball :)<br>⚡ Fun fact: I was born on Christmas Day
 
 ## 🌐 Socials:
 
